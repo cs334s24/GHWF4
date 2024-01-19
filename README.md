@@ -4,6 +4,8 @@
 Practice space for using the Github Workflow.
 
 Participants:
+Colin Conway
+Jacob Smith
 Ben Coleman
 
 
